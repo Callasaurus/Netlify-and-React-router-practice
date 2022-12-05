@@ -10,6 +10,7 @@ Tools and languages:
 - CSS
 - Deployment
 - Netlify
+- Vercel
 
 # Deployed on Netlify:
 
