@@ -1,5 +1,5 @@
 * {
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: "Roboto Condensed", sans-serif;
 }
 
 .App {
@@ -62,12 +62,11 @@
   color: red;
 }
 
-
 .home-button {
   background-color: transparent;
-  border: 1px solid #266DB6;
+  border: 1px solid #266db6;
   box-sizing: border-box;
-  color: #00132C;
+  color: #00132c;
   font-size: 16px;
   font-weight: 700;
   line-height: 24px;
@@ -91,7 +90,7 @@
 }
 
 .home-button:before {
-  background-color: #D5EDF6;
+  background-color: #d5edf6;
   content: "";
   height: calc(100% + 3px);
   position: absolute;
@@ -103,7 +102,7 @@
 }
 
 .home-button:hover:before {
-  background-color: #6DCFF6;
+  background-color: #6dcff6;
 }
 
 @media (min-width: 768px) {
@@ -112,24 +111,3 @@
   }
 }
 
-.navBar {
-  display: flex;
-  align-items: center;
-  height: 60px;
-  background-color: black;
-}
-
-.netflixLogo {
-  width: 5%;
-  /* height: 50px; */
-}
-
-.navBar p {
-  color: #D0D0D3;
-  padding: 20px;
-}
-
-.navBar p:hover {
-  color: yellowgreen;
-  cursor: pointer;
-}
