@@ -1,6 +1,6 @@
 # Netlify and React Router practice 
 
-x
+I thought to myself: what is the most original app I could create in an hour or two to practice deployment and using the React router? After 5 seconds of brainstorming, I thought of possibly the most groundbreaking concept in human history - an app that lets you count AND fetch dad jokes. What more could someone want?
 
 ## Skills
 
@@ -17,6 +17,6 @@ Tools and languages:
 
 ![dadjoke](https://user-images.githubusercontent.com/112335053/205701685-2df17668-dda1-4d23-865c-094195724079.png)
 
-# How to run the app:
+# Deployed on Netlify:
 
 Try it yourself: https://original-counter.netlify.app/
