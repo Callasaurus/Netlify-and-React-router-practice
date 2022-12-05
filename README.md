@@ -14,8 +14,8 @@ Tools and languages:
 # Deployed on Netlify:
 
 Try it yourself: 
-Netlify: https://original-counter.netlify.app/
-Vercel: https://original-counter.vercel.app/
+- Netlify: https://original-counter.netlify.app/
+- Vercel: https://original-counter.vercel.app/
 
 # App demo
 
