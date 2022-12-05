@@ -16,11 +16,11 @@ function App() {
 
   return (
     <div className="App">
-     
+
       <h1><b>The most original app ever created</b></h1>
       
       <div className='buttons-parent'> 
-        <button className="home-button" onClick={navigateCount}> Count away </button>
+        <button className="home-button" onClick={navigateCount}> Count away</button>
         <button className="home-button" onClick={navigateDadJoke}> Want to laugh? </button>
       </div>
 

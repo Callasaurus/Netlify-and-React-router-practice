@@ -33,7 +33,7 @@ function Count() {
 
         <h2> {count} </h2>
         
-        <button className = "buttons" id="reset-button" onClick={resetCount}> <b> RESET!!! ⚠️</b> </button>
+        <button className = "buttons" id="reset-button" onClick={resetCount}> <b> RESET!!! ⚠️ </b> </button>
       </div>
     );
   }
