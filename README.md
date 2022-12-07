@@ -20,6 +20,7 @@ Try it yourself:
 
 # App demo
 
-![Screenshot 2022-12-07 184804](https://user-images.githubusercontent.com/112335053/206269447-38d48f61-af0a-41e1-81da-67d1f482f77b.png)
+![count](https://user-images.githubusercontent.com/112335053/205701639-a4b100fa-c931-40c0-aecf-421188961ee2.png)
+![dadjoke](https://user-images.githubusercontent.com/112335053/205701685-2df17668-dda1-4d23-865c-094195724079.png)
 
 
