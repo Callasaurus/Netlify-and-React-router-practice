@@ -12,7 +12,7 @@ Tools and languages:
 - Netlify
 - Vercel
 
-# Deployed on Netlify:
+# Deployed online:
 
 Try it yourself: 
 - Netlify: https://original-counter.netlify.app/
